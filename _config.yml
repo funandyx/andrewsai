@@ -1,22 +1,23 @@
 
-title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+title: Andrew Sai's Website
+url: 'https://funandyx.github.io/andrewsai/'
+baseurl: '/andrewsai' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Andrew Sai  ## put your name
+title: 'ANALYST &amp; LECTURER, RESEARCHER'  ## your title
+location: Tallinn Estonia/San Francisco , CA
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: https://www.facebook.com/funandyx  ## your facebook account url
+twitter: http://www.twitter.com/niiadjahsai  ## your twitter account url
+linkedin: https://www.linkedin.com/in/andrewadjahsai/  ## your linkedin account url
+instagram: https://www.instagram.com/funandyx/  ## you dribbble account url
+github: http://www.github.com/funandyx  ## your foursquare account url
+medium: https://medium.com/@andrewadjahsai ## my medium account url
 
 
 
